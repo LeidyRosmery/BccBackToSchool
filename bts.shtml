@@ -1,0 +1,839 @@
+<link rel="stylesheet" type="text/css" href="/static/categorias/contenidoEstatico/guiasdecomprasope/2017/qa/resources/css/magnific-popup5.css">
+<link rel="stylesheet" href="/static/categorias/contenidoEstatico/landings/DeVueltaAlCole/assets/css/slick.css?v=5">
+<link rel="stylesheet" href="/static/categorias/contenidoEstatico/landings/DeVueltaAlCole/assets/css/slick-theme.css?v=ads2das2csd99316334675">
+<link rel="stylesheet" type="text/css" href="/static/categorias/contenidoEstatico/landings/DeVueltaAlCole/assets/css/main.css?v=ads2das2csd9939199112348115">
+<style type="text/css">
+  .breadrumbWrap {
+    display: none;
+  }
+
+  #main.newMainSection>.container {
+    padding-right: 0px;
+    padding-left: 0px;
+    overflow: hidden;
+    background: #e4e4e4;
+  }
+
+  #main.newMainSection {
+    margin: 0!important;
+  }
+
+  #main.newMainSection>.container>.col-md-12 {
+    padding: 0!important;
+  }
+
+  .container.breadcrumb.hidden-md.hidden-lg.newMbreadrumb {
+    display: none !important;
+  }
+
+  #main.newMainSection>.container {
+    width: 100%;
+  }
+</style>
+
+<div class="row">
+  <div class="banner-home text-center">
+    <div class="slider-banner hidden-lg hidden-md">
+      <div class="slider-header slider-header-1">
+        <a class="link-banner" href="http://www.sodimac.com.pe/sodimac-pe/product/2262231C/Escritorio-en-L-+-Silla-Verona-negra/?cid=vtrlnd11144" title="Click" onclick="ga('send', 'event', '2018_2_Landing_Home_DeVueltaAlCole', 'Click', 'Boton_ComboEscritorioSilla')">
+          <div class="contenedor-logo">
+            <img class="logo-banner img-responsive" src="/static/categorias/contenidoEstatico/landings/DeVueltaAlCole/assets/img/banner/logo_banner.svg" alt="logo-banner">
+          </div>
+          <div class="contenedor-detail-product">
+            <div class="detail-producto">
+              <img class="img-combo" src="/static/categorias/contenidoEstatico/landings/DeVueltaAlCole/assets/img/banner/combo.png" class="text-left" alt="imagen-combo">
+              <p class="text-producto">Escritorio en L +</p>
+              <p class="text-producto">Silla Verona</p>
+              <p class="text-marca">SKU 2262231/2029162</p>
+              <span class="text-precio">S/ 299 <span class="text-decimal">.90</span></span>
+              <img class="hidden-xs hidden-sm mini-img" src="/static/categorias/contenidoEstatico/landings/DeVueltaAlCole/assets/img/banner/silla.jpg" alt="img-silla">
+            </div>
+            <a class="view-more" href="http://www.sodimac.com.pe/sodimac-pe/product/2262231C/Escritorio-en-L-+-Silla-Verona-negra/?cid=vtrlnd11144" title="Click" onclick="ga('send', 'event', '2018_2_Landing_Home_DeVueltaAlCole', 'Click', 'Boton_ComboEscritorioSilla')">+ Ver más</a>
+          </div>
+        </a>
+
+      </div>
+      <div class="slider-header slider-header-2">
+        <a class="link-banner" href="http://www.sodimac.com.pe/sodimac-pe/product/2579375/Escritorio-en-L/?cid=vtrlnd11146" title="Click" onclick="ga('send', 'event', '2018_2_Landing_Home_DeVueltaAlCole', 'Click', 'Boton_ComboRoperoComoda')">
+          <div class="contenedor-logo">
+            <img class="logo-banner img-responsive" src="/static/categorias/contenidoEstatico/landings/DeVueltaAlCole/assets/img/banner/logo_banner.svg" alt="logo-banner">
+          </div>
+          <div class="contenedor-detail-product">
+            <div class="detail-producto">
+              <img class="img-combo" src="/static/categorias/contenidoEstatico/landings/DeVueltaAlCole/assets/img/banner/combo.png" class="text-left" alt="imagen-combo">
+              <p class="text-producto">Ropero + Cómoda</p>
+              <p class="text-producto">Escritorio</p>
+              <p class="text-marca">SKU 2579375</p>
+              <span class="text-precio">S/ 499 <span class="text-decimal">.90</span></span>
+            </div>
+            <a class="view-more" href="http://www.sodimac.com.pe/sodimac-pe/product/2579375/Escritorio-en-L/?cid=vtrlnd11146" title="Click" onclick="ga('send', 'event', '2018_2_Landing_Home_DeVueltaAlCole', 'Click', 'Boton_ComboRoperoComoda')">+ Ver más</a>
+          </div>
+        </a>
+      </div>
+      <div class="slider-header slider-header-3">
+        <a class="link-banner" href="http://www.sodimac.com.pe/sodimac-pe/product/1279181/Cubos-creativos-x-8-unidades/?cid=vtrlnd11145" title="Click" onclick="ga('send', 'event', '2018_2_Landing_Home_DeVueltaAlCole', 'Click', 'Boton_ComboCubosCreativos')">
+          <div class="contenedor-logo">
+            <img class="logo-banner img-responsive" src="/static/categorias/contenidoEstatico/landings/DeVueltaAlCole/assets/img/banner/logo_banner.svg" alt="logo-banner">
+          </div>
+          <div class="contenedor-detail-product">
+            <div class="detail-producto">
+              <img class="img-combo" src="/static/categorias/contenidoEstatico/landings/DeVueltaAlCole/assets/img/banner/combo.png" class="text-left" alt="imagen-combo">
+              <p class="text-producto">Cubos creativos</p>
+              <p class="text-producto">x 8 und. Kids</p>
+              <p class="text-marca ">SKU 1279181</p>
+              <span class="text-precio">S/ 119 <span class="text-decimal">.90</span></span>
+            </div>
+            <a class="view-more" href="http://www.sodimac.com.pe/sodimac-pe/product/1279181/Cubos-creativos-x-8-unidades/?cid=vtrlnd11145" title="Click" onclick="ga('send', 'event', '2018_2_Landing_Home_DeVueltaAlCole', 'Click', 'Boton_ComboCubosCreativos')">+ Ver más</a>
+          </div>
+        </a>
+      </div>
+    </div>
+    <div class="slider-banner hidden-xs hidden-sm">
+      <div class="slider-header slider-header-1">
+
+        <div class="contenedor-logo">
+          <img class="logo-banner img-responsive" src="/static/categorias/contenidoEstatico/landings/DeVueltaAlCole/assets/img/banner/logo_banner.svg" alt="logo-banner">
+        </div>
+        <div class="contenedor-detail-product">
+          <div class="detail-producto">
+            <img class="img-combo" src="/static/categorias/contenidoEstatico/landings/DeVueltaAlCole/assets/img/banner/combo.png" class="text-left" alt="imagen-combo">
+            <p class="text-producto">Escritorio en L +</p>
+            <p class="text-producto">Silla Verona</p>
+            <p class="text-marca">SKU 2262231/2029162</p>
+            <span class="text-precio">S/ 299 <span class="text-decimal">.90</span></span>
+            <img class="hidden-xs hidden-sm mini-img" src="/static/categorias/contenidoEstatico/landings/DeVueltaAlCole/assets/img/banner/silla.jpg" alt="img-silla">
+          </div>
+          <a class="view-more" href="http://www.sodimac.com.pe/sodimac-pe/product/2262231C/Escritorio-en-L-+-Silla-Verona-negra/?cid=vtrlnd11144" title="Click" onclick="ga('send', 'event', '2018_2_Landing_Home_DeVueltaAlCole', 'Click', 'Boton_ComboEscritorioSilla')">+ Ver más</a>
+        </div>
+
+
+      </div>
+      <div class="slider-header slider-header-2">
+        <div class="contenedor-logo">
+          <img class="logo-banner img-responsive" src="/static/categorias/contenidoEstatico/landings/DeVueltaAlCole/assets/img/banner/logo_banner.svg" alt="logo-banner">
+        </div>
+        <div class="contenedor-detail-product">
+          <div class="detail-producto">
+            <img class="img-combo" src="/static/categorias/contenidoEstatico/landings/DeVueltaAlCole/assets/img/banner/combo.png" class="text-left" alt="imagen-combo">
+            <p class="text-producto">Ropero + Cómoda</p>
+            <p class="text-producto">Escritorio</p>
+            <p class="text-marca">SKU 2579375</p>
+            <span class="text-precio">S/ 499 <span class="text-decimal">.90</span></span>
+          </div>
+          <a class="view-more" href="http://www.sodimac.com.pe/sodimac-pe/product/2579375/Escritorio-en-L/?cid=vtrlnd11146" title="Click" onclick="ga('send', 'event', '2018_2_Landing_Home_DeVueltaAlCole', 'Click', 'Boton_ComboRoperoComoda')">+ Ver más</a>
+        </div>
+
+      </div>
+      <div class="slider-header slider-header-3">
+        <div class="contenedor-logo">
+          <img class="logo-banner img-responsive" src="/static/categorias/contenidoEstatico/landings/DeVueltaAlCole/assets/img/banner/logo_banner.svg" alt="logo-banner">
+        </div>
+        <div class="contenedor-detail-product">
+          <div class="detail-producto">
+            <img class="img-combo" src="/static/categorias/contenidoEstatico/landings/DeVueltaAlCole/assets/img/banner/combo.png" class="text-left" alt="imagen-combo">
+            <p class="text-producto">Cubos creativos</p>
+            <p class="text-producto">x 8 und. Kids</p>
+            <p class="text-marca ">SKU 1279181</p>
+            <span class="text-precio">S/ 119 <span class="text-decimal">.90</span></span>
+          </div>
+          <a class="view-more" href="http://www.sodimac.com.pe/sodimac-pe/product/1279181/Cubos-creativos-x-8-unidades/?cid=vtrlnd11145" title="Click" onclick="ga('send', 'event', '2018_2_Landing_Home_DeVueltaAlCole', 'Click', 'Boton_ComboCubosCreativos')">+ Ver más</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="contenido">
+  <div class="section-categorias">
+    <div class="row">
+      <div class="hidden-xs hidden-sm col-md-3 col-lg-3 pad-right-0">
+        <div class="contenedor-menu">
+          <ul class="menu">
+            <li class="item-menu">
+              <a href="http://www.sodimac.com.pe/sodimac-pe/category/cat10300/Escritorios/?cid=ctglnd11147" title="Click" onclick="ga('send', 'event', '2018_2_Landing_Home_DeVueltaAlCole', 'Click', 'Boton_BolsaEscritorios')" class="link-menu">
+                <div class="contenedor-item-menu">
+                  <p class="categoria-menu">+ ESCRITORIOS </p><span class="img-letter glyphicon glyphicon-menu-right"></span>
+                </div>
+              </a>
+            </li>
+            <li class="item-menu">
+              <a href="http://www.sodimac.com.pe/sodimac-pe/category/cat3189007/Back-to-School-Sillas-de-oficina/?cid=ctglnd11148" title="Click" onclick="ga('send', 'event', '2018_2_Landing_Home_DeVueltaAlCole', 'Click', 'Boton_BolsaSillas')" class="link-menu">
+                <div class="contenedor-item-menu">
+                  <p class="categoria-menu"> + SILLAS DE ESCRITORIO</p><span class="img-letter glyphicon glyphicon-menu-right"></span>
+                </div>
+              </a>
+            </li>
+            <li class="item-menu">
+              <a href="http://www.sodimac.com.pe/sodimac-pe/category/cat3189008/Back-to-School-Organizacion/?cid=ctglnd11149" class="link-menu" title="Click" onclick="ga('send', 'event', '2018_2_Landing_Home_DeVueltaAlCole', 'Click', 'Boton_BolsaOrganizacion')">
+                <div class="contenedor-item-menu">
+                  <p class="categoria-menu"> + ORGANIZACIÓN </p><span class="img-letter glyphicon glyphicon-menu-right"></span>
+                </div>
+              </a>
+            </li>
+            <li class="item-menu">
+              <a href="http://www.sodimac.com.pe/sodimac-pe/category/cat3189009/Back-to-School-Menaje/?cid=ctglnd11150" class="link-menu" title="Click" onclick="ga('send', 'event', '2018_2_Landing_Home_DeVueltaAlCole', 'Click', 'Boton_BolsaMenaje')">
+                <div class="contenedor-item-menu">
+                  <p class="categoria-menu"> + MENAJE </p><span class="img-letter glyphicon glyphicon-menu-right"></span>
+                </div>
+              </a>
+            </li>
+            <li class="item-menu">
+              <a href="http://www.sodimac.com.pe/sodimac-pe/category/cat3189010/Mochilas,-Loncheras-y-Cartucheras/?cid=ctglnd11151" class="link-menu" title="Click" onclick="ga('send', 'event', '2018_2_Landing_Home_DeVueltaAlCole', 'Click', 'Boton_BolsaMochilasLoncherasCartucheras')">
+                <div class="contenedor-item-menu">
+                  <div id="diferente">
+                    <p class="primero categoria-menu"> + MOCHILAS, LONCHERAS Y </p>
+                    <p class="segundo categoria-menu">CARTUCHERAS </p>
+                  </div>
+                  <span class="img-letter glyphicon glyphicon-menu-right"></span>
+                </div>
+              </a>
+            </li>
+            <li class="item-menu">
+              <a href="http://www.sodimac.com.pe/sodimac-pe/category/cat2449008/Computacion/?cid=ctglnd11152" class="link-menu" title="Click" onclick="ga('send', 'event', '2018_2_Landing_Home_DeVueltaAlCole', 'Click', 'Boton_BolsaComputo')">
+                <div class="contenedor-item-menu">
+                  <p class="categoria-menu"> + CÓMPUTO </p><span class="img-letter glyphicon glyphicon-menu-right"></span>
+                </div>
+              </a>
+            </li>
+            <li class="item-menu">
+              <a href="http://www.sodimac.com.pe/sodimac-pe/category/cat30044/Lamparas-de-Escritorio/?cid=ctglnd11153" class="link-menu" title="Click" onclick="ga('send', 'event', '2018_2_Landing_Home_DeVueltaAlCole', 'Click', 'Boton_BolsaIlumincacion')">
+                <div class="contenedor-item-menu">
+                  <p class="categoria-menu"> + ILUMINACIÓN </p><span class="img-letter glyphicon glyphicon-menu-right"></span>
+                </div>
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div class="col-xs-12 col-md-9 col-sm-12 col-lg-9 pad-bottom pad-left-0">
+        <div class="categoria escritorios">
+          <a href="http://www.sodimac.com.pe/sodimac-pe/category/cat10300/Escritorios/?cid=ctglnd11147" class="link-cat" title="Click" onclick="ga('send', 'event', '2018_2_Landing_Home_DeVueltaAlCole', 'Click', 'Boton_BolsaEscritorios')">
+                    <img class="img-categoria responsive-escritorio" src="/static/categorias/contenidoEstatico/landings/DeVueltaAlCole/assets/img/categorias/desktop/escritorios.jpg" alt="categoria-escritorio">
+                    <div class="letter-categoria letter-categoria-medium">
+                      <div class="title-categoria">
+                        <p>ESCRITORIOS</p>
+                        <span class="img-letter glyphicon glyphicon-menu-right"></span>
+                      </div>
+                    </div>
+                 </a>
+        </div>
+      </div>
+      <div class="col-xs-6 col-md-6 col-sm-6 col-lg-6 pad-right">
+        <div class="categoria sillas">
+          <a href="http://www.sodimac.com.pe/sodimac-pe/category/cat3189007/Back-to-School-Sillas-de-oficina/?cid=ctglnd11148" title="Click" onclick="ga('send', 'event', '2018_2_Landing_Home_DeVueltaAlCole', 'Click', 'Boton_BolsaSillas')" class="link-menu">
+                    <img class="hidden-xs hidden-sm img-categoria" src="/static/categorias/contenidoEstatico/landings/DeVueltaAlCole/assets/img/categorias/desktop/sillas.jpg" alt="categoria-sillas">
+                    <img class="hidden-lg hidden-md img-categoria" src="/static/categorias/contenidoEstatico/landings/DeVueltaAlCole/assets/img/categorias/mobil/sillas-mobil.jpg" alt="categoria-sillas">
+                    <div class="letter-categoria">
+                      <div class="title-categoria">
+                        <p>SILLAS DE ESCRITORIO</p>
+                        <span class="img-letter glyphicon glyphicon-menu-right"></span>
+                      </div>
+                    </div>
+                  </a>
+        </div>
+      </div>
+      <div class="col-xs-6 col-md-6 col-sm-6 col-lg-6 pad-left">
+        <div class="categoria organiza">
+          <a href="http://www.sodimac.com.pe/sodimac-pe/category/cat3189008/Back-to-School-Organizacion/?cid=ctglnd11149" class="link-cat" title="Click" onclick="ga('send', 'event', '2018_2_Landing_Home_DeVueltaAlCole', 'Click', 'Boton_BolsaOrganizacion')">
+                <img class="hidden-xs hidden-sm img-categoria" src="/static/categorias/contenidoEstatico/landings/DeVueltaAlCole/assets/img/categorias/desktop/organiza.jpg" alt="categoria-organiza">
+                <img class="hidden-lg hidden-md img-categoria" src="/static/categorias/contenidoEstatico/landings/DeVueltaAlCole/assets/img/categorias/mobil/organiza-mobil.jpg" alt="categoria-organiza">
+                  <div class="letter-categoria">
+                    <div class="title-categoria">
+                      <p>ORGANIZACIÓN</p>
+                      <span class="img-letter glyphicon glyphicon-menu-right"></span>
+                    </div>
+                  </div>
+                </a>
+        </div>
+      </div>
+      <div class="col-xs-12 col-sm-12 col-lg-12 col-md-12 pad-bottom">
+        <div class="categoria mochilas">
+          <a href="http://www.sodimac.com.pe/sodimac-pe/category/cat3189010/Mochilas,-Loncheras-y-Cartucheras/?cid=ctglnd11151" class="link-cat" title="Click" onclick="ga('send', 'event', '2018_2_Landing_Home_DeVueltaAlCole', 'Click', 'Boton_BolsaMochilasLoncherasCartucheras')">
+                <img class="hidden-xs hidden-sm img-categoria" src="/static/categorias/contenidoEstatico/landings/DeVueltaAlCole/assets/img/categorias/desktop/mochilas.jpg" alt="categoria-mochilas">
+                <img class="hidden-lg hidden-md img-categoria" src="/static/categorias/contenidoEstatico/landings/DeVueltaAlCole/assets/img/categorias/mobil/mochilas-mobil.jpg" alt="categoria-mochilas">
+                  <div class="letter-categoria letter-categoria-long">
+                    <div class="title-categoria title-categoria-long">
+                      <p>MOCHILAS, LONCHERAS Y CARTUCHERAS</p>
+                      <span class="img-letter glyphicon glyphicon-menu-right"></span>
+                    </div>
+                  </div>
+                </a>
+        </div>
+      </div>
+      <div class="hidden-xs hidden-sm col-lg-12 col-md-12 pad-bottom">
+        <div class="categoria video-play">
+          <video width="1030" height="500" autoplay loop controls muted>
+                    <source src="/static/categorias/contenidoEstatico/landings/DeVueltaAlCole/assets/video/SodimacBTS.mp4" type="video/mp4">
+                    <source src="/static/categorias/contenidoEstatico/landings/DeVueltaAlCole/assets/video/SodimacBTS.ogv" type="video/ogg">
+                    <source src="/static/categorias/contenidoEstatico/landings/DeVueltaAlCole/assets/video/SodimacBTS.webm" type="video/webm">
+                      </video>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-xs-6 col-md-6 col-sm-6 col-lg-6">
+        <div class="row">
+          <div class="col-xs-12 col-md-12 col-sm-12 col-lg-12 pad-right">
+            <div class="categoria menaje">
+              <a href="http://www.sodimac.com.pe/sodimac-pe/category/cat3189009/Back-to-School-Menaje/?cid=ctglnd11150" class="link-cat" title="Click" onclick="ga('send', 'event', '2018_2_Landing_Home_DeVueltaAlCole', 'Click', 'Boton_BolsaMenaje')">
+                      <img class="hidden-xs hidden-sm img-categoria responsive-menaje" src="/static/categorias/contenidoEstatico/landings/DeVueltaAlCole/assets/img/categorias/desktop/menaje.jpg" alt="categoria-menaje">
+                      <img class="hidden-md hidden-lg img-categoria" src="/static/categorias/contenidoEstatico/landings/DeVueltaAlCole/assets/img/categorias/mobil/menaje-mobil.jpg" alt="categoria-menaje">
+                        <div class="letter-categoria">
+                          <div class=" title-categoria">
+                            <p>MENAJE</p>
+                            <span class="img-letter glyphicon glyphicon-menu-right"></span>
+                          </div>
+                        </div>
+                      </a>
+            </div>
+          </div>
+          <div class="col-xs-12 col-md-12 col-sm-12 col-lg-12 pad-right">
+            <div class="categoria computo">
+              <a href="http://www.sodimac.com.pe/sodimac-pe/category/cat2449008/Computacion/?cid=ctglnd11152" class="link-cat" title="Click" onclick="ga('send', 'event', '2018_2_Landing_Home_DeVueltaAlCole', 'Click', 'Boton_BolsaComputo')">
+                      <img class="hidden-lg hidden-md img-categoria" src="/static/categorias/contenidoEstatico/landings/DeVueltaAlCole/assets/img/categorias/mobil/computo-mobil.jpg" alt="categorias-computo">
+                        <img class="hidden-xs hidden-sm img-categoria" src="/static/categorias/contenidoEstatico/landings/DeVueltaAlCole/assets/img/categorias/desktop/computo.jpg" alt="categorias-computo">
+                        <div class="letter-categoria">
+                          <div class="title-categoria">
+                            <p>CÓMPUTO</p>
+                            <span class="img-letter glyphicon glyphicon-menu-right"></span>
+                          </div>
+                        </div>
+                      </a></div>
+          </div>
+        </div>
+      </div>
+      <div class="col-xs-6 col-md-6 col-sm-6 col-lg-6 pad-left">
+        <div class="categoria iluminacion categoria-long">
+          <a href="http://www.sodimac.com.pe/sodimac-pe/category/cat30044/Lamparas-de-Escritorio/?cid=ctglnd11153" title="Click" onclick="ga('send', 'event', '2018_2_Landing_Home_DeVueltaAlCole', 'Click', 'Boton_BolsaIlumincacion')">
+                  <img class="hidden-xs hidden-sm img-categoria img-categoria-long" src="/static/categorias/contenidoEstatico/landings/DeVueltaAlCole/assets/img/categorias/desktop/iluminacion.jpg" alt="categoria-iluminacion">
+                    <img class="hidden-lg hidden-md img-categoria img-categoria-long" src="/static/categorias/contenidoEstatico/landings/DeVueltaAlCole/assets/img/categorias/mobil/iluminacion-mobil.jpg" alt="categoria-iluminacion">
+                    <div class="letter-categoria letter-categoria-tall">
+                      <div class="title-categoria">
+                        <p>ILUMINACIÓN</p>
+                        <span class="img-letter glyphicon glyphicon-menu-right"></span>
+                      </div>
+                    </div>
+                  </a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="section-videos-tips">
+    <div class="row">
+      <div class="slider-img-actual">
+        <div class="col-md-12 col-lg-12 hidden-xs hidden-sm">
+          <a href="https://www.youtube.com/watch?v=84096kP8Hwc" data-video="0" class="link-video popup-youtube" title="Click" onclick="ga('send', 'event', '2018_2_Landing_Home_DeVueltaAlCole', 'Click', 'Boton_PlayVideo1')">
+            <div class="img-video-tip video-tip-current video-tip-1">
+              <div class="space-left text-center">
+                <div class="contenedor-img-current text-center">
+                  <img class="img-current text-center img-responsive" src="/static/categorias/contenidoEstatico/landings/DeVueltaAlCole/assets/img/logo-video/optimizacion_de_espacios.svg" alt="">
+                </div>
+
+                <p class="text-current">Aprovecha un rincón de tu dormitorio y conviértelo en tu zona de estudio. Aprende a integrar un escritorio en tu habitación con los siguientes consejos.</p>
+              </div>
+              <img class="div-play-current" src="/static/categorias/contenidoEstatico/landings/DeVueltaAlCole/assets/img/video-tip/play_azul.svg" alt="play-video">
+            </div>
+          </a>
+        </div>
+        <div class="col-md-12 col-lg-12 hidden-xs hidden-sm">
+          <a data-video="1" class="link-video popup-youtube" href="https://www.youtube.com/watch?v=DdfzjtEiyO0" title="Click" onclick="ga('send', 'event', '2018_2_Landing_Home_DeVueltaAlCole', 'Click', 'Boton_PlayVideo2')">
+            <div class="img-video-tip video-tip-current video-tip-2">
+              <div class="space-left text-center">
+                <div class="contenedor-img-current text-center">
+                  <img class="img-current text-center img-responsive" src="/static/categorias/contenidoEstatico/landings/DeVueltaAlCole/assets/img/logo-video/organizacion_de_espacios.svg" alt="">
+                </div>
+
+                <p class="text-current">Una área de estudio ordenada incrementa la atención y rendimiento académico. Clasifica tus objetos de uso diario y evita el desorden con los siguientes tips.
+                </p>
+              </div>
+              <img class="div-play-current" src="/static/categorias/contenidoEstatico/landings/DeVueltaAlCole/assets/img/video-tip/play_azul.svg" alt="play-video">
+            </div>
+          </a>
+        </div>
+        <div class="col-md-12 col-lg-12 hidden-xs hidden-sm">
+          <a href="https://www.youtube.com/watch?v=FDFGSNfSSXM" class="link-video popup-youtube" data-video="2" title="Click" onclick="ga('send', 'event', '2018_2_Landing_Home_DeVueltaAlCole', 'Click', 'Boton_PlayVideo3')">
+            <div class="img-video-tip video-tip-current video-tip-3">
+              <div class="space-left text-center">
+                <div class="contenedor-img-current text-center">
+                  <img class="img-current text-center img-responsive" src="/static/categorias/contenidoEstatico/landings/DeVueltaAlCole/assets/img/logo-video/locheras_nutritivas.svg" alt="">
+                </div>
+                <p class="text-current">Una buena alimentación estimula la concentración y renueva la energía durante el día. Prepara una lonchera saludable siguiendo estos consejos.
+                  <img class="div-play-current" src="/static/categorias/contenidoEstatico/landings/DeVueltaAlCole/assets/img/video-tip/play_azul.svg" alt="play-video">
+              </div>
+            </div>
+          </a>
+        </div>
+      </div>
+    </div>
+    <div class="contenedor-item-tip">
+      <div class="row">
+        <div class="hidden-lg hidden-md ">
+          <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 pad-video-tip">
+            <div class="img-video-tip video-tip-1">
+              <a class="link-video-tip" title="Click" onclick="ga('send', 'event', '2018_2_Landing_Home_DeVueltaAlCole', 'Click', 'Boton_EscogerVideo1')" data-video="0" href="https://www.youtube.com/watch?v=84096kP8Hwc">
+                <div class="contenedor-video-tip">
+                  <div class="title-video-tip">
+                    <p class="hidden-md hidden-lg">OPTIMIZA </p>
+                    <p class="hidden-md hidden-lg"> TUS ESPACIOS</p>
+                    <p class="hidden-xs hidden-sm">OPTIMIZA TUS ESPACIOS</p>
+                  </div>
+                </div>
+                <img class="div-play" src="/static/categorias/contenidoEstatico/landings/DeVueltaAlCole/assets/img/video-tip/play_azul.svg" alt="play-video">
+              </a>
+            </div>
+          </div>
+          <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 pad-video-tip">
+            <div class="img-video-tip video-tip-2">
+              <a class="link-video-tip" title="Click" onclick="ga('send', 'event', '2018_2_Landing_Home_DeVueltaAlCole', 'Click', 'Boton_EscogerVideo2')" data-video="1" href="https://youtu.be/DdfzjtEiyO0">
+                <div class="contenedor-video-tip">
+                  <div class="title-video-tip">
+                    <p class="hidden-md hidden-lg">ORGANIZA TU </p>
+                    <p class="hidden-md hidden-lg">ESCRITORIO</p>
+                    <p class="hidden-xs hidden-sm">ORGANIZA TU ESCRITORIO</p>
+                  </div>
+                </div>
+                <img class="div-play" src="/static/categorias/contenidoEstatico/landings/DeVueltaAlCole/assets/img/video-tip/play_azul.svg" alt="play-video">
+              </a>
+            </div>
+          </div>
+          <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 pad-video-tip">
+            <div class="img-video-tip video-tip-3">
+              <a class="link-video-tip" data-video="2" title="Click" onclick="ga('send', 'event', '2018_2_Landing_Home_DeVueltaAlCole', 'Click', 'Boton_EscogerVideo3')" href="https://www.youtube.com/watch?v=FDFGSNfSSXM">
+                <div class="contenedor-video-tip">
+                  <div class="title-video-tip">
+                    <p class="hidden-md hidden-lg">LONCHERAS </p>
+                    <p class="hidden-md hidden-lg"> NUTRITIVAS</p>
+                    <p class="hidden-xs hidden-sm">LONCHERAS NUTRITIVAS</p>
+                  </div>
+                </div>
+                <img class="div-play" src="/static/categorias/contenidoEstatico/landings/DeVueltaAlCole/assets/img/video-tip/play_azul.svg" alt="play-video">
+              </a>
+            </div>
+          </div>
+        </div>
+        <div id="change-responsive" class="hidden-xs hidden-sm slider-opciones">
+          <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 pad-video-tip">
+            <div class="img-video-tip video-tip-1">
+              <a class="link-video-tip" title="Click" onclick="ga('send', 'event', '2018_2_Landing_Home_DeVueltaAlCole', 'Click', 'Boton_EscogerVideo1')" data-video="0" href="">
+                <div class="contenedor-video-tip">
+                  <div class="title-video-tip">
+                    <p class="hidden-md hidden-lg">OPTIMIZA </p>
+                    <p class="hidden-md hidden-lg"> TUS ESPACIOS</p>
+                    <p class="hidden-xs hidden-sm">OPTIMIZA TUS ESPACIOS</p>
+                  </div>
+                </div>
+                <img class="div-play" src="/static/categorias/contenidoEstatico/landings/DeVueltaAlCole/assets/img/video-tip/play_azul.svg" alt="play-video">
+              </a>
+            </div>
+          </div>
+          <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 pad-video-tip">
+            <div class="img-video-tip video-tip-2">
+              <a class="link-video-tip" title="Click" onclick="ga('send', 'event', '2018_2_Landing_Home_DeVueltaAlCole', 'Click', 'Boton_EscogerVideo2')" data-video="1" href="javascript:void(0)">
+                <div class="contenedor-video-tip">
+                  <div class="title-video-tip">
+                    <p class="hidden-md hidden-lg">ORGANIZA TU </p>
+                    <p class="hidden-md hidden-lg">ESCRITORIO</p>
+                    <p class="hidden-xs hidden-sm">ORGANIZA TU ESCRITORIO</p>
+                  </div>
+                </div>
+                <img class="div-play" src="/static/categorias/contenidoEstatico/landings/DeVueltaAlCole/assets/img/video-tip/play_azul.svg" alt="play-video">
+              </a>
+            </div>
+          </div>
+          <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 pad-video-tip">
+            <div class="img-video-tip video-tip-3">
+              <a class="link-video-tip" data-video="2" title="Click" onclick="ga('send', 'event', '2018_2_Landing_Home_DeVueltaAlCole', 'Click', 'Boton_EscogerVideo3')" href="">
+                <div class="contenedor-video-tip">
+                  <div class="title-video-tip">
+                    <p class="hidden-md hidden-lg">LONCHERAS </p>
+                    <p class="hidden-md hidden-lg"> NUTRITIVAS</p>
+                    <p class="hidden-xs hidden-sm">LONCHERAS NUTRITIVAS</p>
+                  </div>
+                </div>
+                <img class="div-play" src="/static/categorias/contenidoEstatico/landings/DeVueltaAlCole/assets/img/video-tip/play_azul.svg" alt="play-video">
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  <div class=" section-tips">
+    <div class="div-carrousel text-center">
+      <div class="row">
+
+        <div class="col-md-12 col-lg-12 hidden-xs hidden-sm">
+          <div class="slider-title">
+            <div class="">
+              <p class="title-tips text-center"><span class="letter-hands">TIPS </span>para elegir el escritorio ideal para tu hogar</p>
+            </div>
+            <div class="">
+              <p class="title-tips text-center"><span class="letter-hands">TIPS </span>para elegir el escritorio ideal para tu hogar</p>
+            </div>
+            <div class="">
+              <p class="title-tips text-center"><span class="letter-hands">TIPS </span>para elegir el escritorio ideal para tu hogar</p>
+            </div>
+            <div class="">
+              <p class="title-tips text-center"><span class="letter-hands">TIPS </span>para elegir la mochila adecuada a tus necesidades</p>
+            </div>
+            <div class="">
+              <p class="title-tips text-center"><span class="letter-hands">TIPS </span>para elegir la mochila adecuada a tus necesidades</p>
+            </div>
+            <div class="">
+              <p class="title-tips text-center"><span class="letter-hands">TIPS </span>para elegir la mochila adecuada a tus necesidades</p>
+            </div>
+            <div class="">
+              <p class="title-tips text-center"><span class="letter-hands">TIPS </span>para tener en cuenta</p>
+            </div>
+            <div class="">
+              <p class="title-tips text-center"><span class="letter-hands">TIPS </span>para tener en cuenta</p>
+            </div>
+            <div class="">
+              <p class="title-tips text-center"><span class="letter-hands">TIPS </span>para tener en cuenta</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="row text-center">
+        <!-- <p class="title-tips text-center"><span class="letter-hands">TIPS </span>para tener en cuenta</p> -->
+        <div class="slider-tips hidden-lg hidden-md">
+          <div class="prueba">
+            <a class="link-banner" href="http://www.sodimac.com.pe/sodimac-pe/content/a330021/como-elegir-escritorios?cid=hdr11092" title="Click" onclick="ga('send', 'event', '2018_2_Landing_Home_DeVueltaAlCole', 'Click', 'Boton_VerMasTips')">
+              <img class="hidden-lg hidden-md img-logo-tip" src="/static/categorias/contenidoEstatico/landings/DeVueltaAlCole/assets/img/slider/tips_para_tener_en_cuenta.svg" alt="logo-tip">
+              <div class="hidden-lg hidden-md indicador-slide">
+                <span class=" num-actual">1</span> <span class="num-total">/9</span>
+              </div>
+
+              <div class="img-tip img-tip-1">
+                <div class="letter-tip">
+                  <div class="name-tips">
+                    <p>ESPACIO</p>
+                  </div>
+                </div>
+              </div>
+              <p class="text-tip text-justify">Lo primero es considerar el espacio que tienes en casa para tu escritorio y, a partir de ello, definir las medidas del mueble que puedes instalar.
+
+              </p>
+              <a class="ver-detalle" href="http://www.sodimac.com.pe/sodimac-pe/content/a330021/como-elegir-escritorios?cid=hdr11092" title="Click" onclick="ga('send', 'event', '2018_2_Landing_Home_DeVueltaAlCole', 'Click', 'Boton_VerMasTips')">VER MÁS</a>
+
+            </a>
+          </div>
+          <div class="prueba">
+            <a class="link-banner" title="Click" onclick="ga('send', 'event', '2018_2_Landing_Home_DeVueltaAlCole', 'Click', 'Boton_VerMasTips')" href="http://www.sodimac.com.pe/sodimac-pe/content/a330021/como-elegir-escritorios?cid=hdr11092">
+                <img class="hidden-lg hidden-md img-logo-tip" src="/static/categorias/contenidoEstatico/landings/DeVueltaAlCole/assets/img/slider/tips_para_tener_en_cuenta.svg" alt="logo-tip">
+                <div class="hidden-lg hidden-md indicador-slide">
+                  <span class="num-actual">2</span> <span class="num-total">/9</span>
+                </div>
+                <div class="img-tip img-tip-2">
+                  <div class="letter-tip">
+                    <div class="name-tips">
+                      <p>TAMAÑO</p>
+                    </div>
+                  </div>
+                </div>
+                <p class="text-tip text-justify">La altura de un escritorio debe ser entre 75 y 80 centímetros, mientras que la superficie de la mesa dependerá de las tareas que realices en él.</p>
+                <a class="ver-detalle" title="Click" onclick="ga('send', 'event', '2018_2_Landing_Home_DeVueltaAlCole', 'Click', 'Boton_VerMasTips')" href="http://www.sodimac.com.pe/sodimac-pe/content/a330021/como-elegir-escritorios?cid=hdr11092">VER MÁS</a>
+            </a>
+          </div>
+          <div class="prueba">
+            <a class="link-banner" title="Click" onclick="ga('send', 'event', '2018_2_Landing_Home_DeVueltaAlCole', 'Click', 'Boton_VerMasTips')" href="http://www.sodimac.com.pe/sodimac-pe/content/a330021/como-elegir-escritorios?cid=hdr11092">
+              <img class="hidden-lg hidden-md img-logo-tip" src="/static/categorias/contenidoEstatico/landings/DeVueltaAlCole/assets/img/slider/tips_para_tener_en_cuenta.svg" alt="logo-tip">
+              <div class="hidden-lg hidden-md indicador-slide">
+                <span class="num-actual">3</span> <span class="num-total">/9</span>
+              </div>
+              <div class="img-tip img-tip-3">
+                <div class="letter-tip">
+                  <div class="name-tips">
+                    <p>COMODIDAD</p>
+                  </div>
+                </div>
+              </div>
+              <p class="text-tip text-justify">Elige el escritorio que te permita mantener tus piernas y brazos doblados en un ángulo de 90° cuando te sientes frente a él. </p>
+              <a class="ver-detalle" title="Click" onclick="ga('send', 'event', '2018_2_Landing_Home_DeVueltaAlCole', 'Click', 'Boton_VerMasTips')" href="http://www.sodimac.com.pe/sodimac-pe/content/a330021/como-elegir-escritorios?cid=hdr11092">VER MÁS</a>
+            </a>
+          </div>
+
+          <div class="prueba">
+            <img class="hidden-lg hidden-md img-logo-tip" src="/static/categorias/contenidoEstatico/landings/DeVueltaAlCole/assets/img/slider/tips_para_tener_en_cuenta.svg" alt="logo-tip">
+            <div class="hidden-lg hidden-md indicador-slide">
+              <span class="num-actual">4</span> <span class="num-total">/9</span>
+            </div>
+            <div class="img-tip img-tip-4">
+              <div class="letter-tip">
+                <div class="name-tips">
+                  <p>TAMAÑO</p>
+                </div>
+              </div>
+            </div>
+            <p class="text-tip text-justify">Evita comprar una mochila grande que dure por años. Lo ideal es que mida lo mismo que el torso, desde los hombros hasta 5 cm. antes de la cintura. </p>
+            <!-- <a class="ver-detalle" href="">VER MÁS</a> -->
+          </div>
+          <div class="prueba">
+            <img class="hidden-lg hidden-md img-logo-tip" src="/static/categorias/contenidoEstatico/landings/DeVueltaAlCole/assets/img/slider/tips_para_tener_en_cuenta.svg" alt="logo-tip">
+            <div class="hidden-lg hidden-md indicador-slide">
+              <span class="num-actual">5</span> <span class="num-total">/9</span>
+            </div>
+            <div class="img-tip img-tip-5">
+              <div class="letter-tip">
+                <div class="name-tips">
+                  <p>ERGONOMÍA</p>
+                </div>
+              </div>
+            </div>
+            <p class="text-tip text-justify">Asegúrate que las cintas sean acolchadas, ajustables y gruesas. Además, las correas adicionales en el pecho y cintura ayudan a distribuir el peso que cae sobre la columna.</p>
+            <!-- <a class="ver-detalle" href="">VER MÁS</a> -->
+          </div>
+          <div class="prueba">
+            <img class="hidden-lg hidden-md img-logo-tip" src="/static/categorias/contenidoEstatico/landings/DeVueltaAlCole/assets/img/slider/tips_para_tener_en_cuenta.svg" alt="logo-tip">
+            <div class="hidden-lg hidden-md indicador-slide">
+              <span class="num-actual">6</span> <span class="num-total">/9</span>
+            </div>
+            <div class="img-tip img-tip-6">
+              <div class="letter-tip">
+                <div class="name-tips">
+                  <p>DISEÑO</p>
+                </div>
+              </div>
+            </div>
+            <p class="text-tip text-justify">Si va a cargar muchos objetos en la mochila, busca una que tenga varios bolsillos y compartimentos, estos espacios te ayudarán a distribuir mejor el peso de la mochila. </p>
+            <!-- <a class="ver-detalle" href="">VER MÁS</a> -->
+          </div>
+          <div class="prueba">
+            <a class="link-banner" title="Click" onclick="ga('send', 'event', '2018_2_Landing_Home_DeVueltaAlCole', 'Click', 'Boton_VerMasTips')" href="http://www.sodimac.com.pe/sodimac-pe/content/a330006/Como-elegir-sillas-de-escritorio?cid=hdr11158">
+                <img class="hidden-lg hidden-md img-logo-tip" src="/static/categorias/contenidoEstatico/landings/DeVueltaAlCole/assets/img/slider/tips_para_tener_en_cuenta.svg" alt="logo-tip">
+                      <div class="hidden-lg hidden-md indicador-slide">
+                        <span class="num-actual">7</span> <span class="num-total">/9</span>
+                      </div>
+                      <div class="img-tip img-tip-7">
+                        <div class="letter-tip">
+                          <div class="name-tips">
+                            <p>SILLAS</p>
+                          </div>
+                        </div>
+                      </div>
+                      <p class="text-tip text-justify">Evita dolores de espalda eligiendo una silla con apoyabrazos y altura regulable que se acomoden a tu ergonomía y un respaldo estable para mantener una buena postura.</p>
+                      <a class="ver-detalle" title="Click" onclick="ga('send', 'event', '2018_2_Landing_Home_DeVueltaAlCole', 'Click', 'Boton_VerMasTips')" href="http://www.sodimac.com.pe/sodimac-pe/content/a330006/Como-elegir-sillas-de-escritorio?cid=hdr11158">VER MÁS</a>
+            </a>
+          </div>
+          <div class="prueba">
+            <a class="link-banner" title="Click" onclick="ga('send', 'event', '2018_2_Landing_Home_DeVueltaAlCole', 'Click', 'Boton_VerMasTips')" href="http://www.sodimac.com.pe/sodimac-pe/content/a330006/Como-elegir-sillas-de-escritorio?cid=hdr11158">
+              <img class="hidden-lg hidden-md img-logo-tip" src="/static/categorias/contenidoEstatico/landings/DeVueltaAlCole/assets/img/slider/tips_para_tener_en_cuenta.svg" alt="logo-tip">
+              <div class="hidden-lg hidden-md indicador-slide">
+                <span class="num-actual">8</span> <span class="num-total">/9</span>
+              </div>
+              <div class="img-tip img-tip-8">
+                <div class="letter-tip">
+                  <div class="name-tips">
+                    <p>ILUMINACIÓN</p>
+                  </div>
+                </div>
+              </div>
+              <p class="text-tip text-justify">Las luces frías o blancas mejoran la visión y estimulan la concentración. Por otro lado, los focos LED no producen calor y son ideales para las largas jornadas de estudio.</p>
+              <a class="ver-detalle" title="Click" onclick="ga('send', 'event', '2018_2_Landing_Home_DeVueltaAlCole', 'Click', 'Boton_VerMasTips')" href="http://www.sodimac.com.pe/sodimac-pe/content/a330006/Como-elegir-sillas-de-escritorio?cid=hdr11158">VER MÁS</a>
+
+            </a>
+          </div>
+          <div class="prueba">
+            <a class="link-banner" title="Click" onclick="ga('send', 'event', '2018_2_Landing_Home_DeVueltaAlCole', 'Click', 'Boton_VerMasTips')" href="http://www.sodimac.com.pe/sodimac-pe/content/a330006/Como-elegir-sillas-de-escritorio?cid=hdr11158">
+              <img class="hidden-lg hidden-md img-logo-tip" src="/static/categorias/contenidoEstatico/landings/DeVueltaAlCole/assets/img/slider/tips_para_tener_en_cuenta.svg" alt="logo-tip">
+              <div class="hidden-lg hidden-md indicador-slide">
+                <span class="num-actual">9</span> <span class="num-total">/9</span>
+              </div>
+              <div class="img-tip img-tip-9">
+                <div class="letter-tip">
+                  <div class="name-tips">
+                    <p>MOCHILA</p>
+                  </div>
+                </div>
+              </div>
+              <p class="text-tip text-justify">La carga que coloques al interior de la mochila no debe exceder el 10% del peso corporal, si el tramo a recorrer es largo, o el 15% si el trayecto es corto.</p>
+              <a class="ver-detalle" title="Click" onclick="ga('send', 'event', '2018_2_Landing_Home_DeVueltaAlCole', 'Click', 'Boton_VerMasTips')" href="http://www.sodimac.com.pe/sodimac-pe/content/a330006/Como-elegir-sillas-de-escritorio?cid=hdr11158">VER MÁS</a>
+
+            </a>
+          </div>
+
+        </div>
+        <div class="slider-tips hidden-xs hidden-sm">
+          <div class="prueba">
+            <img class="hidden-lg hidden-md img-logo-tip" src="/static/categorias/contenidoEstatico/landings/DeVueltaAlCole/assets/img/slider/tips_para_tener_en_cuenta.svg" alt="logo-tip">
+            <div class="hidden-lg hidden-md indicador-slide">
+              <span class=" num-actual">1</span> <span class="num-total">/9</span>
+            </div>
+
+            <div class="img-tip img-tip-1">
+              <div class="letter-tip">
+                <div class="name-tips">
+                  <p>ESPACIO</p>
+                </div>
+              </div>
+            </div>
+            <p class="text-tip text-justify">Lo primero es considerar el espacio que tienes en casa para tu escritorio y, a partir de ello, definir las medidas del mueble que puedes instalar.
+
+            </p>
+            <a class="ver-detalle" href="http://www.sodimac.com.pe/sodimac-pe/content/a330021/como-elegir-escritorios?cid=hdr11092" title="Click" onclick="ga('send', 'event', '2018_2_Landing_Home_DeVueltaAlCole', 'Click', 'Boton_VerMasTips')">VER MÁS</a>
+
+
+          </div>
+          <div class="prueba">
+            <img class="hidden-lg hidden-md img-logo-tip" src="/static/categorias/contenidoEstatico/landings/DeVueltaAlCole/assets/img/slider/tips_para_tener_en_cuenta.svg" alt="logo-tip">
+            <div class="hidden-lg hidden-md indicador-slide">
+              <span class="num-actual">2</span> <span class="num-total">/9</span>
+            </div>
+            <div class="img-tip img-tip-2">
+              <div class="letter-tip">
+                <div class="name-tips">
+                  <p>TAMAÑO</p>
+                </div>
+              </div>
+            </div>
+            <p class="text-tip text-justify">La altura de un escritorio debe ser entre 75 y 80 centímetros, mientras que la superficie de la mesa dependerá de las tareas que realices en él.</p>
+            <a class="ver-detalle" title="Click" onclick="ga('send', 'event', '2018_2_Landing_Home_DeVueltaAlCole', 'Click', 'Boton_VerMasTips')" href="http://www.sodimac.com.pe/sodimac-pe/content/a330021/como-elegir-escritorios?cid=hdr11092">VER MÁS</a>
+
+          </div>
+          <div class="prueba">
+            <img class="hidden-lg hidden-md img-logo-tip" src="/static/categorias/contenidoEstatico/landings/DeVueltaAlCole/assets/img/slider/tips_para_tener_en_cuenta.svg" alt="logo-tip">
+            <div class="hidden-lg hidden-md indicador-slide">
+              <span class="num-actual">3</span> <span class="num-total">/9</span>
+            </div>
+            <div class="img-tip img-tip-3">
+              <div class="letter-tip">
+                <div class="name-tips">
+                  <p>COMODIDAD</p>
+                </div>
+              </div>
+            </div>
+            <p class="text-tip text-justify">Elige el escritorio que te permita mantener tus piernas y brazos doblados en un ángulo de 90° cuando te sientes frente a él. </p>
+            <a class="ver-detalle" title="Click" onclick="ga('send', 'event', '2018_2_Landing_Home_DeVueltaAlCole', 'Click', 'Boton_VerMasTips')" href="http://www.sodimac.com.pe/sodimac-pe/content/a330021/como-elegir-escritorios?cid=hdr11092">VER MÁS</a>
+          </div>
+
+          <div class="prueba">
+            <img class="hidden-lg hidden-md img-logo-tip" src="/static/categorias/contenidoEstatico/landings/DeVueltaAlCole/assets/img/slider/tips_para_tener_en_cuenta.svg" alt="logo-tip">
+            <div class="hidden-lg hidden-md indicador-slide">
+              <span class="num-actual">4</span> <span class="num-total">/9</span>
+            </div>
+            <div class="img-tip img-tip-4">
+              <div class="letter-tip">
+                <div class="name-tips">
+                  <p>TAMAÑO</p>
+                </div>
+              </div>
+            </div>
+            <p class="text-tip text-justify">Evita comprar una mochila grande que dure por años. Lo ideal es que mida lo mismo que el torso, desde los hombros hasta 5 cm. antes de la cintura. </p>
+            <!-- <a class="ver-detalle" href="">VER MÁS</a> -->
+          </div>
+          <div class="prueba">
+            <img class="hidden-lg hidden-md img-logo-tip" src="/static/categorias/contenidoEstatico/landings/DeVueltaAlCole/assets/img/slider/tips_para_tener_en_cuenta.svg" alt="logo-tip">
+            <div class="hidden-lg hidden-md indicador-slide">
+              <span class="num-actual">5</span> <span class="num-total">/9</span>
+            </div>
+            <div class="img-tip img-tip-5">
+              <div class="letter-tip">
+                <div class="name-tips">
+                  <p>ERGONOMÍA</p>
+                </div>
+              </div>
+            </div>
+            <p class="text-tip text-justify">Asegúrate que las cintas sean acolchadas, ajustables y gruesas. Además, las correas adicionales en el pecho y cintura ayudan a distribuir el peso que cae sobre la columna.</p>
+            <!-- <a class="ver-detalle" href="">VER MÁS</a> -->
+          </div>
+          <div class="prueba">
+            <img class="hidden-lg hidden-md img-logo-tip" src="/static/categorias/contenidoEstatico/landings/DeVueltaAlCole/assets/img/slider/tips_para_tener_en_cuenta.svg" alt="logo-tip">
+            <div class="hidden-lg hidden-md indicador-slide">
+              <span class="num-actual">6</span> <span class="num-total">/9</span>
+            </div>
+            <div class="img-tip img-tip-6">
+              <div class="letter-tip">
+                <div class="name-tips">
+                  <p>DISEÑO</p>
+                </div>
+              </div>
+            </div>
+            <p class="text-tip text-justify">Si va a cargar muchos objetos en la mochila, busca una que tenga varios bolsillos y compartimentos, estos espacios te ayudarán a distribuir mejor el peso de la mochila. </p>
+            <!-- <a class="ver-detalle" href="">VER MÁS</a> -->
+          </div>
+          <div class="prueba">
+            <img class="hidden-lg hidden-md img-logo-tip" src="/static/categorias/contenidoEstatico/landings/DeVueltaAlCole/assets/img/slider/tips_para_tener_en_cuenta.svg" alt="logo-tip">
+            <div class="hidden-lg hidden-md indicador-slide">
+              <span class="num-actual">7</span> <span class="num-total">/9</span>
+            </div>
+            <div class="img-tip img-tip-7">
+              <div class="letter-tip">
+                <div class="name-tips">
+                  <p>SILLAS</p>
+                </div>
+              </div>
+            </div>
+            <p class="text-tip text-justify">Evita dolores de espalda eligiendo una silla con apoyabrazos y altura regulable que se acomoden a tu ergonomía y un respaldo estable para mantener una buena postura.</p>
+            <a class="ver-detalle" title="Click" onclick="ga('send', 'event', '2018_2_Landing_Home_DeVueltaAlCole', 'Click', 'Boton_VerMasTips')" href="http://www.sodimac.com.pe/sodimac-pe/content/a330006/Como-elegir-sillas-de-escritorio?cid=hdr11158">VER MÁS</a>
+          </div>
+          <div class="prueba">
+            <img class="hidden-lg hidden-md img-logo-tip" src="/static/categorias/contenidoEstatico/landings/DeVueltaAlCole/assets/img/slider/tips_para_tener_en_cuenta.svg" alt="logo-tip">
+            <div class="hidden-lg hidden-md indicador-slide">
+              <span class="num-actual">8</span> <span class="num-total">/9</span>
+            </div>
+            <div class="img-tip img-tip-8">
+              <div class="letter-tip">
+                <div class="name-tips">
+                  <p>ILUMINACIÓN</p>
+                </div>
+              </div>
+            </div>
+            <p class="text-tip text-justify">Las luces frías o blancas mejoran la visión y estimulan la concentración. Por otro lado, los focos LED no producen calor y son ideales para las largas jornadas de estudio.</p>
+            <a class="ver-detalle" title="Click" onclick="ga('send', 'event', '2018_2_Landing_Home_DeVueltaAlCole', 'Click', 'Boton_VerMasTips')" href="http://www.sodimac.com.pe/sodimac-pe/content/a330006/Como-elegir-sillas-de-escritorio?cid=hdr11158">VER MÁS</a>
+
+
+          </div>
+          <div class="prueba">
+            <img class="hidden-lg hidden-md img-logo-tip" src="/static/categorias/contenidoEstatico/landings/DeVueltaAlCole/assets/img/slider/tips_para_tener_en_cuenta.svg" alt="logo-tip">
+            <div class="hidden-lg hidden-md indicador-slide">
+              <span class="num-actual">9</span> <span class="num-total">/9</span>
+            </div>
+            <div class="img-tip img-tip-9">
+              <div class="letter-tip">
+                <div class="name-tips">
+                  <p>MOCHILA</p>
+                </div>
+              </div>
+            </div>
+            <p class="text-tip text-justify">La carga que coloques al interior de la mochila no debe exceder el 10% del peso corporal, si el tramo a recorrer es largo, o el 15% si el trayecto es corto.</p>
+            <a class="ver-detalle" title="Click" onclick="ga('send', 'event', '2018_2_Landing_Home_DeVueltaAlCole', 'Click', 'Boton_VerMasTips')" href="http://www.sodimac.com.pe/sodimac-pe/content/a330006/Como-elegir-sillas-de-escritorio?cid=hdr11158">VER MÁS</a>
+
+
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+  </section>
+</div>
+</main>
+<script type="text/javascript" src=" /static/categorias/contenidoEstatico/landings/DeVueltaAlCole/assets/js/slick.js?v=ads2das2csd10349118231657"></script>
+<script type="text/javascript" src=" /static/categorias/contenidoEstatico/landings/DeVueltaAlCole/assets/js/carrousel.js?v=ads2das2csd10349118231657"></script>
+<script type="text/javascript" src="/static/categorias/contenidoEstatico/landings/DeVueltaAlCole/assets/js/video-tip.js?v=ads2das2csd10349118231657"></script>
+<script type="text/javascript" src="/static/categorias/contenidoEstatico/guiasdecomprasope/2017/qa/resources/js/jquery.magnific-popup5.js?v=ads2das2csd1049118231657"></script>
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+
+
+<script type="text/javascript">
+  $(document).ready(function() {
+
+    var heights = $(".prueba").map(function() {
+        return $(this).height();
+      }).get(),
+      maxHeight = Math.max.apply(null, heights);
+    $(".prueba").height(maxHeight);
+
+    // PLUGIN MAGNIFICPOPUP
+    $('.popup-youtube, .popup-vimeo, .popup-gmaps').magnificPopup({
+      disableOn: 700,
+      type: 'iframe',
+      mainClass: 'mfp-fade',
+      removalDelay: 160,
+      preloader: false,
+      fixedContentPos: false
+    });
+    //END MAGNIFICPOPUP
+  });
+</script>
